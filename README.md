@@ -59,17 +59,17 @@ accuracy                           0.76      1407
 ## Key Visualizations
 
 - **SHAP Summary Plot:**  
-  ![SHAP Summary](download-3.jpg)
-  - *Contract type*, *tenure*, and *OnlineSecurity* are the most influential features in predicting churn.
+  ![SHAP Summary](images/shap_summary.png)  
+  *Contract type, tenure, and OnlineSecurity are the most influential features in predicting churn.*
 
 - **Feature Importance Bar Chart:**  
-  ![Feature Importance](download-2.jpg)
+  ![Feature Importance](images/feature_importance.png)
 
 - **ROC Curve:**  
-  ![ROC Curve](download-1.jpg)
+  ![ROC Curve](images/roc_curve.png)
 
 - **Churn Distribution:**  
-  ![Churn Distribution](download.jpg)
+  ![Churn Distribution](images/churn_distribution.png)
 
 ---
 
